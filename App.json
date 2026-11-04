@@ -1,0 +1,16 @@
+{
+  "name": "Travel-Planner-Agent",
+  "description": "AI-Powered Travel Planner Agent built using IBM watsonx, Granite models, and Langflow for automated trip planning.",
+  "repository": "https://github.com/your-username/your-repo-name",
+  "keywords": [
+    "ibm-skillsbuild",
+    "watsonx",
+    "ibm-granite",
+    "langflow",
+    "travel-planner-agent"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "stack": "heroku-22"
+}
